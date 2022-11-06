@@ -14,6 +14,8 @@ You're going to build a prototype of a machine learning model following these in
 <ol>Investigate the task. Ask your team leader any questions you may have.</ol>
 <ol>Develop a model. Submit your code to the project reviewer.</ol>
 <ol>Prepare a report. Send the report to your team leader so that they can make sure you've completed the tasks correctly.</ol></ul>
-The final score depends on the quality of your model.
-The additional assignment is based on the same data as the main project.
-At the end of the sprint, your code will be reviewed by the team leader.
+The final score depends on the quality of your model
+
+The additional assignment is based on the same data as the main project
+
+At the end of the sprint, your code will be reviewed by the team leader
