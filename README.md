@@ -5,7 +5,7 @@ In the final sprint, you will apply everything you've learned during a two-week 
 <ul><li>
 The team leader will be giving you tasks and making sure you complete them successfully</li><li>
 The project reviewer will review your code. They are independent experts from another department who work in machine learning, but they don't know the details of the task</li></ul>
-<br><h2>Tasks</h2>
+<h2>Tasks</h2>
 To complete the final sprint successfully, you'll need a score of five story points (SP). These are conventional units for measuring the task's difficulty. You'll get:
 <ul><li>4 to 6 SP for the main project</li>
 <li>1 SP for the additional assignment</li></ul><br>
